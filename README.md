@@ -16,8 +16,8 @@ Este documento README tem como objetivo fornecer as informações necessárias p
 - Maven 3.x.x
 
   ## ⌨️ Editor / IDE
-- IntelliJ IDEA - Community Edition [link]([https://marketplace.visualstudio.com/items?itemName=loiane.java-spring-extension-pack](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC))
-- IIntelliJ IDEA Ultimate [[link](https://marketplace.visualstudio.com/items?itemName=loiane.java-spring-extension-pack](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows))
+- IntelliJ IDEA - Community Edition [link](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC])
+- IIntelliJ IDEA Ultimate [link](https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows])
 
 ## Algumas Funcionalidades disponíveis na API
 
