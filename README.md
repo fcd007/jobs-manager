@@ -1,8 +1,10 @@
-# Sobre o projeto Backend Java
+# Jobs Manager Service
+
+## Sobre o projeto Backend Java
 
 Este documento README tem como objetivo fornecer as informações necessárias para documentação do projeto **Java Spring - Java 21+, Hibernate, PostgreSQL**.
 
-# 🚨 Requisitos
+## 🚨 Requisitos
 - O projeto foi construído utilizando  **Java 21 LTS**,  **Spring Boot 3**, **JPA + Hibernate**, **JUnit 5**, **Maven 3** ;
 - Instalar Java JDK 21 LTS (Open JDK / Eclipse Temurin Java JDK 21 LTS, instalar a versão Maven 3 para uso do terminal/console;
 
